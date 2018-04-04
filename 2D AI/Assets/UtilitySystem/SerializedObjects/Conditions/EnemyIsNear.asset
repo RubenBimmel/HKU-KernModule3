@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b36d281e3f4288f4196046d0f00fa25d, type: 3}
+  m_Name: EnemyIsNear
+  m_EditorClassIdentifier: 
+  conditionType: 2
+  transform1: {fileID: 11400000, guid: 1b471e066eca94444914268f748077ab, type: 2}
+  transform2: {fileID: 11400000, guid: d0c280aeafa8eed41a6b522c4d3c2eb1, type: 2}
+  value: 8

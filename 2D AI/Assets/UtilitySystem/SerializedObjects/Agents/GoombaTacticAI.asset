@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce0a6ee22b3ad774282a9099387c0c26, type: 3}
+  m_Name: GoombaTacticAI
+  m_EditorClassIdentifier: 
+  states:
+  - {fileID: 11400000, guid: f7ee1cda1877c3145bfa3b5e6c11eea6, type: 2}
+  - {fileID: 11400000, guid: 7a6ee2dd99e45be4c933737b49811f88, type: 2}
+  - {fileID: 11400000, guid: 7a89941777f213d4d946354dc8ab389f, type: 2}
+  - {fileID: 11400000, guid: 900fcab2ded9e7b46bbb855cb7862bb0, type: 2}
+  - {fileID: 11400000, guid: fc7a5625fb6f57242a7583ec92473625, type: 2}
+  - {fileID: 11400000, guid: b6446edaa1b219d45b35a3a30e9b7738, type: 2}

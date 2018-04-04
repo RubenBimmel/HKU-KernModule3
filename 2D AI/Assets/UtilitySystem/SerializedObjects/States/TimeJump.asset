@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e27bac747e0ab58409718c803f7065e9, type: 3}
+  m_Name: TimeJump
+  m_EditorClassIdentifier: 
+  priority: 6
+  conditions:
+  - {fileID: 11400000, guid: 39ae64a95cf574e4f87ebaa0b4963daa, type: 2}
+  - {fileID: 11400000, guid: ab32efb999f467e4bb188c9589581bd9, type: 2}
+  actions:
+  - {fileID: 11400000, guid: d96d2a7f874eff6429acf26294afa2b7, type: 2}

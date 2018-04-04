@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/AIvsAI/GoombaAIMode.unity
+  isLoaded: 1
+  isActive: 1
